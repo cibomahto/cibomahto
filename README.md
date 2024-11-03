@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hey!
+
+I'm Matthew Mets,  an electronics engineer, focusing on entertainment and consumer product development. Through my design studio Blinkinlabs, I help clients bring their ideas from concept to production. I specialize in design for manufacture and certification. We have an in-house micro electronics assembly line, and a network of contract manufacturers in China that we can recommend for larger volume productions.
 
 <!--
 **cibomahto/cibomahto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
